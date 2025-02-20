@@ -1,0 +1,5 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import "https://unpkg.com/dropzone@6.0.0-beta.1/dist/dropzone.css";
